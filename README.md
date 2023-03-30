@@ -1,5 +1,5 @@
 ﻿# Synchroniseur
-""#1.1 Présentation du Projet""
+"""#1.1 Présentation du Projet"""
   
   Dans ce projet, nous écrivons un Shell pour effectuer la synchronisation de 2 systèmes de fichiers présents sur la même machine. C'est un Synchroniseur simple avec comparaison du contenu, gestion des liens symboliques et Interaction avec l’utilisateur.
   
